@@ -29,3 +29,4 @@ jobs:
         goversion: "https://go.dev/dl/go1.19.2.linux-amd64.tar.gz"
         extra_files: README.md
         compress_assets: OFF
+        md5sum: FALSE
