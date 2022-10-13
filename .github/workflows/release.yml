@@ -27,5 +27,5 @@ jobs:
         goos: ${{ matrix.goos }}
         goarch: ${{ matrix.goarch }}
         goversion: "https://go.dev/dl/go1.19.2.linux-amd64.tar.gz"
-        extra_files: LICENSE README.md
+        extra_files: README.md
         compress_assets: OFF
